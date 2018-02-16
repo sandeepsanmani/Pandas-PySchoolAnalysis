@@ -67,6 +67,7 @@ Breakdown by grouping schools based on a reasonable approximation of school size
 **Scores by School Type**
 Breakdown by grouping schools based on school type (Charter vs. District).
 
+**Analysis Observations**
 From the above analysis, the following conclusions could be drawn
 - It is clear that the top 5 performing schools are:
   1. Cabrera High School	
