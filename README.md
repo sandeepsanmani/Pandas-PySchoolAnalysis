@@ -7,7 +7,7 @@ In this assignment, I have used the Pandas library to make strategic decisions r
 
 The final report includes the following:
 
-**District Summary**
+**District Summary** 
 A high level snapshot (in table form) of the district's key metrics, including:
 Total Schools
 Total Students
