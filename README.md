@@ -70,15 +70,15 @@ Breakdown by grouping schools based on school type (Charter vs. District).
 **Analysis Observations**
 From the above analysis, the following conclusions could be drawn
 - It is clear that the top 5 performing schools are:
-  1. Cabrera High School	
-  2. Griffin High School	
-  3. Holden High School	
-  4. Pena High School	
-  5. Shelton High School	
+  1. Wilson High School	
+  2. Pena High School	
+  3. Wright High School	
+  4. Cabrera High School	
+  5. Holden High School	
 
 - Schools with higher spending averages, has lower overall passing rate.
-- Medium and small schools has higher overall passing rate compared to the larger schools.
-- Finally Charter schools has higher overall passing rate than district schools.
+- Medium and small schools have higher overall passing rate compared to the larger schools.
+- Finally Charter schools have higher overall passing rate than district schools.
 
 
 
